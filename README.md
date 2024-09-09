@@ -1,1 +1,1 @@
-# phy329_assignments
+Programming assignments for PHY329 (Introduction to computational physics).
